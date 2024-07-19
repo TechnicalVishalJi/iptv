@@ -11,6 +11,7 @@ This repository contains iptv channels' playlists.
 
 # EPG file (Program Guide)
 Electronic Program Guide is the file containing all the information of upcoming and current programs on a channel.
+**Note:** Given EPG files contain only those channels present in above playlists.
 ### Links to EPG file:
 - Compressed Format: https://bit.ly/epgxml
 - XML Format: https://bit.ly/getepg
